@@ -18,4 +18,4 @@ pyplot.figure(figsize=(width,height))
 pyplot.xlim(x_start,x_end)
 pyplot.ylim(y_start,y_end)
 pyplot.scatter(X,Y,s=5,color='#CD2305',marker='o')
-
+pyplot.show()
